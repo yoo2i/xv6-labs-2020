@@ -1,3 +1,6 @@
 {
+    "files.associations": {
+        "user.h": "c"
+    }
     
 }
